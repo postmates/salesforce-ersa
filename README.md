@@ -4,7 +4,7 @@ In Greek mythology, Ersa is the daughter of Zeus who is the God of many things i
 
 In Salesforce, Ersa is a utility to easily show Lightning Components on a Visualforce Page. 
 
-<a href="https://githubsfdeploy.herokuapp.com">
+<a href="https://githubsfdeploy.herokuapp.com?owner=postmates&repo=salesforce-ersa">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
