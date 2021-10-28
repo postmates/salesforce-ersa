@@ -1,3 +1,6 @@
+# Now Archived and Forked
+_salesforce-ersa_ will not be maintained in this repository going forward. Please use, create issues on, and make PRs to the fork of _salesforce-ersa_ located [here](https://github.com/thebrettbarlow/salesforce-ersa).
+
 # Ersa
 
 In Greek mythology, Ersa is the daughter of Zeus who is the God of many things including Lightning.
